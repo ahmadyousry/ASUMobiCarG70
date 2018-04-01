@@ -1,6 +1,6 @@
 # ASUMobiCarG70
 # contributors:
-*Ahmed mohamed yousry labib
+*Ahmed mohamed yousry labib /n
 *Ahmed mohamed attia ahmed 
 *Ahmed elsayed mohamed mohamed
 *ibrahim kamal ibrahim 
@@ -12,6 +12,6 @@
 *ahmed hamdu mahmoud
 *ahmed abdelfattah mohamed
 
-link for stage 1 video
+# link for stage 1 video
 https://youtu.be/iA_x0R261YU
 
