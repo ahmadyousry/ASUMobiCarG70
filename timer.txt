@@ -1,0 +1,30 @@
+#include <SimpleTimer.h> 
+
+SimpleTimer timer ;
+
+
+int angle = 30 ; // for example  
+int time_of_circle = 5  // for example// theoretically from: angle*(pi/180)/W ,where W=v/r & r=vT/2*pi .. v,T are given from field hand calculations 
+
+
+void action(){
+
+stopthecar();
+delay(25000);
+  
+}
+
+void setup() {
+  // put your setup code here, to run once:
+
+
+Serial.begin(9600);
+timer.setInterval(time_of_circle,action);
+}
+
+void loop() {
+  
+
+ timer.run();
+
+}
